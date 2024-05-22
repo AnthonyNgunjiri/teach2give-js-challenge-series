@@ -170,12 +170,7 @@ isEven(5);
 
 
 
-isEven(4)
-console.log(isEven(4))
 
-while(numb<=101){
-  return(evenNumberUpto101);
-}
 
  
 
